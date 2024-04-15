@@ -1,8 +1,9 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello world!</h1></summary>
-</div>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+World!;+Student+in+Computer+Technician!" />
+</h1>
+
 
 <!-- Presentation -->
 <p>
