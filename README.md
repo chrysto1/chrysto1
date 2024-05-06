@@ -33,6 +33,13 @@
 [![Chrysto GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysto1&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=gotham)](https://github.com/chrysto1/github-readme-stats)
 
+<!-- Visitas -->
+
+<p align="center"> 
+ VISITAS<br> <br>
+  <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
+  </p>
+
 <!-- Portfolio -->
 ### Portfólio:
 
