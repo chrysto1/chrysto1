@@ -37,7 +37,7 @@
 
 <p align="center"> 
  VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
+  <img src="https://profile-counter.glitch.me/chrysto1/count.svg"/>
   </p>
 
 <!-- Portfolio -->
