@@ -1,13 +1,13 @@
 <!--título-->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+World!;+Student+in+Computer+Technician!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F5F774&center=true&width=650&height=70&lines=Hello+World!;Student+in+Computer+Technician!;Graphic+Designer"/>
 </h1>
 
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chrys! I'm new to programming and I'm currently diving into C.
+  Hi 👋, I'm Chrys! I'm new to programming and I'm currently diving into Python.
 
   - 🌱 I am currently studying Computer Technician at Senac
 
@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old and currently live in Brazil. I have intermediate English and am starting to use the C language. I am also a graphic designer in my spare time, which helped me develop important skills such as creativity, communication, marketing and social media.
+  - 💬 I am 22 years old and currently live in Brazil. I have intermediate English and am starting to use the Python language. I am also a graphic designer in my spare time, which helped me develop important skills such as creativity, communication, marketing and social media.
 
   - ⚡ I like reading, as well as watching movies and playing games! I believe that our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
