@@ -59,7 +59,7 @@
     
 <!-- Skills: Databases -->
   <div style="flex-basis: 48%;">
-    <h3>Databases Languages</h3>
+    <h3>Databases</h3>
     <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
     <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
     
