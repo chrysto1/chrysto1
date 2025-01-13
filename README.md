@@ -60,8 +60,8 @@
 <!-- Skills: Databases -->
   <div style="flex-basis: 48%;">
     <h3>Databases Languages</h3>
-    <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
-    <img align="center" alt="C" height="30" width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
+    <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
+    <img align="center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
     
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
