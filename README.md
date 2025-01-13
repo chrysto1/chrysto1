@@ -30,7 +30,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chrystozzz/)
 
 <!-- GithubStats -->
-[![Chrysto GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysto1&show_icons=true&theme=gotham)
+(![Chrysto GitHub stats](https://github-readme-stats.vercel.app/api?username=chrysto1&show_icons=true&theme=transparent))
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=gotham)](https://github.com/chrysto1/github-readme-stats)
 
 <!-- Visitas -->
