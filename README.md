@@ -39,13 +39,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=transparent&layout=compact" alt="Top Langs">
 </div>
 
-<p align="center"> 
+<p align="center">
   <b>VISITAS</b><br>
   <img src="https://profile-counter.glitch.me/chrysto1/count.svg" alt="Contador de Visitas"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Animacao Hacker" width="600">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Animacao Hacker" width="100%">
 </p>
 
 ## 🔥 Skills & Tools
