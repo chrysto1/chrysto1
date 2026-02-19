@@ -14,6 +14,7 @@
   <summary>👨‍💻 More about me</summary>
   <br>
   - 💬 I am 23 years old, living in Brazil. I have intermediate English and am focusing on building interactive web applications with React. As a graphic designer in my spare time, I've developed a keen eye for UI/UX, creativity, and branding.
+  <br>
   - ⚡ I like reading and watching movies! I believe our personal interests contribute to a more accurate perception of things and to solving problems.
 </details>
 <br>
@@ -54,6 +55,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%23001E36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF" alt="Photoshop" />
 </div>
 <br>
 
