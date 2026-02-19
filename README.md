@@ -35,13 +35,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrysto1&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=transparent&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=chrysto1&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=transparent&layout=compact" alt="Top Langs">
 </div>
 
-<p align="center">
+<p align="center"> 
   <b>VISITAS</b><br>
-  <img src="https://profile-counter.glitch.me/chrysto1/count.svg" alt="Contador de Visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=chrysto1&color=blue&style=flat" alt="Contador de Visitas"/>
 </p>
 
 <p align="center">
