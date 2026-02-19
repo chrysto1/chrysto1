@@ -42,6 +42,10 @@
 <br>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chrysto1&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Visitas" />
+</p>
+
+<p align="center">
   <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Animacao Hacker" width="100%">
 </p>
 
