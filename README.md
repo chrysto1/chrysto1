@@ -14,6 +14,7 @@
   <summary>👨‍💻 More about me</summary>
   <br>
   - 💬 I am 23 years old, living in Brazil. I have intermediate English and am focusing on Python and backend development. As a graphic designer in my spare time, I've developed a keen eye for UI/UX, creativity, and branding.
+  <br>
   - ⚡ I like reading and watching movies! I believe our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
 <br>
@@ -35,8 +36,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=chrysto1&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=transparent&layout=compact" alt="Top Langs">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=chrysto1&show_icons=true&theme=transparent" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=chrysto1&show_icons=true&theme=transparent&layout=compact" alt="Top Langs">
 </div>
 <br>
 
