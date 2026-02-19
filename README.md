@@ -1,13 +1,11 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F5F774&center=true&width=650&height=70&lines=Hello+World!;Student+in+Computer+Technician!;Graphic+Designer+&+Dev"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F5F774&center=true&width=650&height=70&lines=Hello+World!;Computer+Technician!;Graphic+Designer+&+Dev"/>
 </h1>
 
 <p>
   Hi 👋, I'm <strong>Chrys</strong>! I'm bridging the gap between design and development, currently diving deep into Python and building real-world applications.
 
-  - 🌱 I am currently studying Computer Technician at Senac.
-  - 🚀 Currently developing <strong>Abacus</strong> (a personal finance app) and <strong>Love Wrapped</strong> (a music streaming app).
-  - 🎨 Creator of the clothing brand <strong>Alto Valor</strong>.
+  - 🎓 I'm a graduated Computer Technician, always seeking to expand my knowledge.
   - 🔭 Always willing to learn. If you want to share knowledge, just get in touch!
   - 📫 Contact me: contato.joaochrystian@proton.me
 </p>
@@ -15,8 +13,8 @@
 <details>
   <summary>👨‍💻 More about me</summary>
   <br>
-  - 💬 I am 22 years old, living in Brazil. I have intermediate English and am focusing on Python and backend development. As a graphic designer in my spare time, I've developed a keen eye for UI/UX, creativity, and branding.
-  - ⚡ Outside of coding and designing, I'm usually playing F1 25, surviving in Minecraft (Deceased Craft), or watching movies. I believe our personal interests fuel our creativity and problem-solving skills! \o/
+  - 💬 I am 23 years old, living in Brazil. I have intermediate English and am focusing on Python and backend development. As a graphic designer in my spare time, I've developed a keen eye for UI/UX, creativity, and branding.
+  - ⚡ I like reading and watching movies! I believe our personal interests contribute to a more accurate perception of things and to solving problems. \o/
 </details>
 <br>
 
